@@ -10,3 +10,12 @@ Les pages seront organisés:
   Une paga à la Une avec recommendation selon les derniers visionnages de l'utilisateur
   Filtre avec genre ( Horreur, action , romantique)
   Affichage de l'affiche du contenue avec bouton lecture et en dessous les avis en nombre d'etoile
+
+## 📂 Structure du Projet
+
+models/             
+controllers/       
+views/              
+public/css/            
+config/            
+index.php           
