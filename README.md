@@ -8,9 +8,6 @@ Pour ce projet, j'ai utilisé l'architecture **MVC** (Modèle, Vue, Contrôleur)
 - **Vue** : Pour l'affichage des pages (HTML/CSS).
 - **Contrôleur** : Pour faire le lien entre les deux.
 
-J'ai aussi créé une classe **Utilisateur** pour gérer les profils (identifiant, email, mot de passe). 
-> **Le petit plus** : J'ai ajouté une méthode `getAge()` qui permet de calculer l'âge de l'utilisateur pour vérifier s'il est majeur.
-
 ## 🚀 Les fonctionnalités
 - **Barre de navigation** : Pour choisir entre Films, Séries ou voir son Profil.
 - **Barre de recherche** : Pour trouver un film précis.
@@ -30,10 +27,5 @@ J'ai aussi créé une classe **Utilisateur** pour gérer les profils (identifian
 - `controllers/` : Contient la logique du site.
 - `public/` : Pour les images, le CSS et le JavaScript.
 
-## 💻 Installation
-1. Copier les fichiers sur un serveur local (Wamp, XAMPP ou MAMP).
-2. Importer la base de données fournie.
-3. Configurer le fichier de connexion à la BDD.
-4. Lancer `index.php`.
 
-**Réalisé par :** [Ton Nom]
+**Réalisé par :** [Marty Benjamin]
